@@ -1,4 +1,4 @@
-from CodeSignal import almostIncreasingSequence
+from Arcade import almostIncreasingSequence
 
 ques=7
 if ques==8:
